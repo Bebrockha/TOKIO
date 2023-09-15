@@ -1,0 +1,2671 @@
+
+/*Главное начало*/
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  body {
+    min-width: 850px;
+    font-family: 'Open Sans', Arial, sans-serif;
+  }
+
+  body,
+  h1 {
+    margin: 0;
+  }
+  .ebati {
+    display:flex;
+    width:350px;
+  }
+ .text {
+  display: inline-block;
+  
+  padding: 5px 10px;
+ 
+  text-decoration: none;
+  border-radius: 5px;
+  width: 100px;
+  margin-left: 150px;
+ }
+ .text1 {
+  display: inline-block;
+ 
+  padding: 5px 10px;
+  
+  text-decoration: none;
+  border-radius: 5px;
+  width: 125px;
+  margin-left: 150px;
+ }
+ .text2 {
+  display: inline-block;
+ 
+  padding: 5px 10px;
+ 
+  text-decoration: none;
+  border-radius: 5px;
+  width: 225px;
+  margin-left: 150px;
+ }
+ .text3 {
+  display: inline-block;
+ 
+  padding: 5px 10px;
+ 
+  text-decoration: none;
+  border-radius: 5px;
+  width: 275px;
+  margin-left: 150px;
+ }
+ .text4 {
+  display: inline-block;
+ 
+  padding: 5px 10px;
+ 
+  text-decoration: none;
+  border-radius: 5px;
+  width: 205px;
+  margin-left: 150px;
+ }
+ .text5 {
+  display: inline-block;
+ 
+  padding: 5px 10px;
+ 
+  text-decoration: none;
+  border-radius: 5px;
+  width: 100px;
+  margin-left: 150px;
+ }
+ .text6 {
+  display: inline-block;
+ 
+  padding: 5px 10px;
+ 
+  text-decoration: none;
+  border-radius: 5px;
+  width: 100px;
+  margin-left: 0px;
+ }
+ .text7 {
+  display: inline-block;
+ 
+  padding: 5px 10px;
+ 
+  text-decoration: none;
+  border-radius: 5px;
+  width: 200px;
+  margin-left: 0px;
+ }
+
+
+
+
+/*Главное конец*/
+
+  
+
+
+
+
+
+
+/*Нижний блок сероого цвета начало*/
+  .snizu {  
+    background-color: #EFEFEF;
+    width: 100%;
+    height: 59px;
+    margin-top: 0px;
+    display: flex;
+    text-align: center;
+  
+  }
+
+  a.text:active, /* активная/посещенная ссылка */
+  a.text:hover,  /* при наведении */
+  a.text {
+  text-decoration: none;
+  color: #000000;
+  }
+
+  .h3 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 0px;
+  
+    letter-spacing: 1px;
+    color: inherit;
+  }
+
+
+  .h33 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 0px;
+ 
+    letter-spacing: 1px;
+  }
+  .h333 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 0px;
+   
+    letter-spacing: 1px;
+  }
+  
+  .h3333 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 0px;
+  
+    letter-spacing: 1px;
+  }
+  
+  .h33333 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 0px;
+
+    letter-spacing: 1px;
+
+  }
+
+/*Нижний блок серого цвета конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Верхний контент начало*/
+  .sverxu {
+    margin-top: 15px;
+    background-color: #ffffff;
+    width: 100%;
+    height: 36px;
+    display: flex;
+    text-align: center;
+
+  }
+
+  .h3_2 {
+    font: bold;
+    font-size: 18px;
+    margin-left: 0px;
+    margin-top: 0px;
+  
+  }
+
+
+  .palki {
+    
+      background-color: black;
+      height: 36px;
+      width: 5px;
+      margin-left: 30px;
+    
+  
+  }
+
+  .h33_2 {
+    font: bold;
+    font-size: 18px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+  }
+
+  .palki1 {
+    
+    background-color: black;
+    height: 36px;
+    width: 5px;
+    margin-left: 0px;
+   
+  
+
+}
+
+.h333_2 {
+  font: bold;
+  font-size: 18px;
+  margin-left: 0px;
+  margin-top: 0px;
+  width: 150px;
+
+}
+
+
+.instagram {
+  width: 30px;
+  height: 30px;
+  margin-left: 1000px;
+}
+
+
+/*Верхний контент конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Лого, адрес, телефон и тд центральный контент начало*/
+.centre {
+    background-color: #ffffff;
+    width: 100%;
+    height: 182px;
+    position: relative;
+    display: block;
+}
+
+
+.logo1 {
+  background-color: #ffffff;
+
+    height: 145px;
+    position: relative;
+    display: block;
+}
+
+.logo {
+  width: 495px;
+  height: 134px;
+  margin-left: 210px;
+  margin-top: 15px;
+}
+
+
+
+
+.time1 {
+  background-color: #ffffff;
+  margin-left: 777px;
+  margin-top: -140px;
+  height: 35px;
+  position: relative;
+  display: block;
+}
+
+.time {
+  width: 32px;
+  height: 33px;
+  margin-left: 10px;
+  margin-bottom: 110px;
+}
+
+.raspisanie {
+  font-size: 18px;
+  font-weight: 500;
+    margin-left: 60px;
+    margin-top: -138px;
+    letter-spacing: 1px;
+}
+
+
+
+.phone {
+  width: 28px;
+  height: 29px;
+  margin-left: 15px;
+  margin-bottom: -10px;
+}
+a.phone2:active, /* активная/посещенная ссылка */
+  a.phone2:hover,  /* при наведении */
+  a.phone2 {
+  text-decoration: none;
+  color: #000000;
+  width: 20px;
+  display: inline-block;
+  }
+.tele {
+  font-size: 18px;
+  font-weight: 500;
+    margin-left: 10px;
+    margin-top: 60px;
+    letter-spacing: 1px;
+ width: 193px;
+}
+
+
+
+
+
+.phone1 {
+  background-color: #ffffff;
+  margin-left: 1121px;
+  margin-bottom: 123px;
+  height: 35px;
+  position: relative;
+  display: block;
+  
+}
+
+
+.metka {
+  width: 39px;
+  height: 39px;
+}
+
+.metochka {
+  font-size: 18px;
+    
+    margin-left: 60px;
+    margin-top: -36px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+/*Лого, адрес, телефон и тд центральный контент конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Фото начало*/
+.kart {
+  width: 100%;
+  height: 100%;
+}
+/*Фото конец*/
+
+
+
+
+
+
+
+
+
+/*О салоне начало*/
+
+
+
+.salonchik {
+
+    text-align: center;
+}
+
+
+a.text1:active, /* активная/посещенная ссылка */
+  a.text1:hover,  /* при наведении */
+  a.text1 {
+  text-decoration: none;
+  color: #000000;
+  
+ 
+  }
+
+.salon1 {
+    font-size: 48px;
+    font-family: 'Oswald';
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+.glav {
+  display: flex;
+}
+
+
+.brends {
+  width: 327px;
+  height: 256px;
+  margin-top: 120px;
+  margin-left: 113px;
+}
+.brendsik {
+  font-weight: 800;
+    font-size: 24px;
+    font-family: "Roboto";
+    margin-top: 21px;
+    letter-spacing: 1px;
+    margin-left: 113px;
+    width: 328px;
+}
+
+
+
+
+.kolektive {
+  margin-left: 240px;
+ 
+}
+
+.kolektives {
+  width: 327px;
+  height: 256px;
+  margin-top: 120px;
+  margin-left: 79px;
+}
+.kolekt {
+  margin-left: 79px;
+  font-weight: 800;
+    font-size: 24px;
+    font-family: "Roboto";
+    margin-top: 21px;
+    letter-spacing: 1px;
+    width: 328px;
+}
+
+
+
+
+.atmosfer {
+  margin-left: 240px;
+ 
+}
+
+.atmos {
+  width: 327px;
+  height: 256px;
+  margin-top: 120px;
+  margin-left: 79px;
+}
+.atmo {
+  margin-left: 79px;
+  font-weight: 800;
+    font-size: 24px;
+    font-family: "Roboto";
+    margin-top: 21px;
+    letter-spacing: 1px;
+    width: 328px;
+}
+
+
+
+/*Фото начало*/
+.kart1 {
+  width: 100%;
+  height: 100%;
+  margin-top: 27px;
+}
+/*Фото конец*/
+
+
+/*О салоне конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Услуги парекхмахера начало*/
+.parekhmah {
+
+    text-align: center;
+}
+
+
+a.text2:active, /* активная/посещенная ссылка */
+  a.text2:hover,  /* при наведении */
+  a.text2 {
+  text-decoration: none;
+  color: #000000;
+  }
+
+.par {
+    font-size: 48px;
+    font-family: 'Oswald';
+    font-family: "Roboto";
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+/*Карточки первые начало*/
+.glav2 {
+  display: flex;
+}
+/*Карточки первые конец*/
+
+
+
+
+
+
+
+/*Карточка первого уровня начало*/
+
+/*Карточка женская стрижка начало*/
+
+.jens {
+  margin-left: 218px;
+}
+
+.jenskie {
+  width: 200px;
+  height: 211px;
+  border-radius: 100px;
+  margin-top: 130px;
+}
+.jen {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 5px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.je {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 14px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.j {
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 14px;
+  letter-spacing: 1px;
+  width: 310px;
+}
+.podrob1 {
+  width: 273px;
+  height: 62px;
+  margin-top: 15px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+
+}
+
+.podrob1:hover {
+  background-color: hwb(43 20% 17%);
+  
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #ffe498; /* Тень в виде рамки */
+
+}
+/*Карточка женская стрижка конец*/
+
+
+
+
+
+
+
+/*Карточка мужская стрижка начало*/
+
+.jens1 {
+  margin-left: auto;
+}
+
+.jenskie1 {
+  width: 200px;
+  height: 211px;
+  border-radius: 100px;
+  margin-top: 130px;
+}
+.jen1 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 5px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.je1 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 14px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.j1 {
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 14px;
+  letter-spacing: 1px;
+  width: 250px;
+}
+
+/*Карточка мужская стрижка конец*/
+
+
+
+
+
+
+
+
+/*Карточка свадебные причёски начало*/
+
+.jens2 {
+  margin-left: auto;
+  margin-right: 218px;
+}
+
+.jenskie2 {
+  width: 200px;
+  height: 211px;
+  border-radius: 100px;
+  margin-top: 130px;
+}
+.jen2 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 5px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.je2 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 14px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.j2 {
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 14px;
+  letter-spacing: 1px;
+  width: 275px;
+}
+
+/*Карточка свадебные причёски конец*/
+
+/*Карточка первого уровня конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Карточки второго уровня начало*/
+.glav3 {
+  display: flex;
+  margin-top: 62px;
+}
+
+
+
+
+
+
+
+/*Карточка окрашивания начало*/
+
+.jens3 {
+  margin-left: 218px;
+}
+
+.jenskie3 {
+  width: 200px;
+  height: 211px;
+  border-radius: 100px;
+  margin-top: 130px;
+}
+.jen3 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 5px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.je3 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 14px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.j3 {
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 14px;
+  letter-spacing: 1px;
+  width: 310px;
+}
+
+/*Карточка окрашивания конец*/
+
+
+
+
+
+
+
+/*Карточка завивки начало*/
+
+.jens4 {
+  margin-left: auto;
+}
+
+.jenskie4 {
+  width: 200px;
+  height: 211px;
+  border-radius: 100px;
+  margin-top: 130px;
+}
+.jen4 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 5px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.je4 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 14px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.j4 {
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 14px;
+  letter-spacing: 1px;
+  width: 290px;
+}
+
+/*Карточка завивки конец*/
+
+
+
+
+
+
+
+
+/*Карточка лечении волос начало*/
+
+.jens5 {
+  margin-left: auto;
+  margin-right: 218px;
+}
+
+.jenskie5 {
+  width: 200px;
+  height: 211px;
+  border-radius: 100px;
+  margin-top: 130px;
+}
+.jen5 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 5px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.je5 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 14px;
+    letter-spacing: 1px;
+    width: 400px;
+}
+.j5 {
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 14px;
+  letter-spacing: 1px;
+  width: 275px;
+}
+
+/*Карточка лечении волос конец*/
+
+/*Карточки второго уровня конец*/
+
+/*Услуги парекхмахера конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*Фото начало*/
+.kart2 {
+  width: 100%;
+  height: 100%;
+  margin-top: 27px;
+}
+/*Фото конец*/
+
+
+
+
+
+
+
+
+
+
+/*Услуги ногтей начало*/
+.nogti {
+  text-align: center;
+
+}
+
+/*Текст о маникюре начало*/
+a.text3:active, /* активная/посещенная ссылка */
+a.text3:hover,  /* при наведении */
+a.text3 {
+  text-decoration: none;
+  color: #000000;
+  }
+
+.no {
+  font-size: 48px;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+/*Текст о маникюре конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Маникюр начало*/
+
+.nser {
+  margin-top: 145px;
+  background-color: #ffffff;
+    width: 1073px;
+    height: 5930px;
+    position: relative;
+    display: block;
+    margin-left: 100px;
+}
+
+
+.manikyres1 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5930px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+.matext {
+  font-size: 40px;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  margin-top: 77px;
+
+margin-left: 385px;
+  
+}
+
+
+.manikyre1 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.manikyr1 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.maniky1 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.man1 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  width: 450px;
+  height: 317px;
+
+}
+.ma1 {
+  width: 273px;
+  height: 62px;
+  margin-top: 15px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+.manikyres2 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+
+
+.manikyre2 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.manikyr2 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.maniky2 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.man2 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 380px;
+  height: 317px;
+
+}
+.ma2 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.manikyres3 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+
+
+.manikyre3 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.manikyr3 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.maniky3 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.man3 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 380px;
+  height: 317px;
+
+}
+.ma3 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+.manikyres4 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+
+
+.manikyre4 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.manikyr4 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.maniky4 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.man4 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 460px;
+  height: 317px;
+
+}
+.ma4 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.manikyres5 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+
+
+.manikyre5 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.manikyr5 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.maniky5 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.man5 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 370px;
+  height: 317px;
+
+}
+.ma5 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+.manikyres6 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+.manikyre6 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.manikyr6 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.maniky6 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.man6 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 350px;
+  height: 317px;
+
+}
+.ma6 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+/*Маникюр начало*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Педикюр начало*/
+.pediku {
+  margin-top: -6100px;
+ 
+}
+.pedikures1 {
+  margin-left: 910px;
+  background-color: white;
+  width: 459px;
+  height: 5930px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+  
+}
+.pedtext {
+  font-size: 40px;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  margin-top: 77px;
+text-align: center;
+margin-left: 1000px;
+  
+}
+
+
+.pedikre1 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.pediku1 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.pedik1 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.pedi1 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  width: 300px;
+  height: 317px;
+  margin-left: 75px;
+
+}
+.ped1 {
+  width: 273px;
+  height: 62px;
+  margin-top: 15px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+.pedikures2 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+
+
+.pedikre2 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.pediku2 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.pedik2 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.pedi2 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 450px;
+  height: 317px;
+
+}
+.ped2 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.pedikures3 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+
+
+.pedikre3 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.pediku3 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.pedik3 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.pedi3 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 450px;
+  height: 317px;
+
+}
+.ped3 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+.pedikures4 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+
+
+.pedikre4 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.pediku4 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.pedik4 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.pedi4 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 370px;
+  height: 317px;
+
+}
+.ped4 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.pedikures5 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+
+
+.pedikre5 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.pediku5 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.pedik5 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.pedi5 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 370px;
+  height: 317px;
+
+}
+.ped5 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+.pedikures6 {
+  margin-left: 300px;
+  background-color: white;
+  width: 459px;
+  height: 5179px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+}
+.pedikre6 {
+  width: 459px;
+  height: 329px;
+  margin-top: 40px;
+}
+.pediku6 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 45px;
+    letter-spacing: 1px;
+    width: 460px;
+}
+.pedik6 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  
+}
+.pedi6 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 1px;
+  width: 415px;
+  height: 317px;
+
+}
+.ped6 {
+  width: 273px;
+  height: 62px;
+  margin-top: 0px;
+  background-color: #8F7227;
+  color: white;
+  border: none;
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  letter-spacing: 1px;
+}
+
+/*Педикюр конец*/
+
+
+/*Услуги ногтей конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Услуги косметолога начало*/
+.nogti {
+  text-align: center;
+
+}
+
+/*Текст о маникюре начало*/
+a.text3:active, /* активная/посещенная ссылка */
+a.text3:hover,  /* при наведении */
+a.text3 {
+  text-decoration: none;
+  color: #000000;
+  }
+
+.no {
+  font-size: 48px;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+/*Текст о маникюре конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Фото начало*/
+.kart3 {
+  width: 100%;
+  height: 100%;
+  margin-top: 154px;
+}
+/*Фото конец*/
+
+
+
+/*Косметология начало*/
+
+.text_kosme {
+  text-align: center;
+}
+
+/*Текст о косметологии начало*/
+a.text4:active, /* активная/посещенная ссылка */
+a.text4:hover,  /* при наведении */
+a.text4 {
+  text-decoration: none;
+  color: #000000;
+  }
+
+.kosm {
+  font-size: 48px;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+
+.kosmet{
+  display: flex;
+  margin-top: -100px;
+}
+/*Текст о косметологии конец*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pervi {
+  margin-top: 145px;
+  margin-left: 150px;
+  width: 627px;
+  height: 2314px;
+  
+}
+
+.chistka {
+  background-color: white;
+  width: 627px;
+  height: 1030px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+  margin-left: 150px;
+  margin-top: 145px;
+ 
+ 
+  
+}
+
+
+.kosmeto1 {
+  width: 627px;
+  height: 409px;
+  margin-top: 40px;
+}
+.kosmet1 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kosme1 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.kos1 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  width: 535px;
+  height: 256px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+.masaj {
+  background-color: white;
+  width: 627px;
+  height: 972px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+  margin-left: 150px;
+  margin-top: 145px;
+ 
+ 
+  
+}
+
+
+.kosmeto2 {
+  width: 627px;
+  height: 409px;
+  margin-top: 40px;
+}
+.kosmet2 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kosme2 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.kos2 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  width: 535px;
+  height: 198px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.vtory {
+  margin-top: -2147px;
+  margin-left: 859px;
+  width: 627px;
+  height: 2314px;
+  
+}
+
+.uhod {
+  background-color: white;
+  width: 627px;
+  height: 1030px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+
+ 
+ 
+  
+}
+
+
+.kosmeto3 {
+  width: 627px;
+  height: 409px;
+  margin-top: 40px;
+}
+.kosmet3 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kosme3 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.kos3 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  width: 625px;
+  height: 256px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+.piling {
+  background-color: white;
+  width: 627px;
+  height: 972px;
+  box-shadow: 0px 20px 40px black;
+  text-align: center;
+  margin-top: 145px;
+ 
+ 
+  
+}
+
+
+.kosmeto4 {
+  width: 627px;
+  height: 409px;
+  margin-top: 40px;
+}
+.kosmet4 {
+  font-weight: 800;
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kosme4 {
+  font-weight: 800;
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.kos4 {
+  font-weight: 800;
+  font-size: 24px;
+  font-family: "Roboto";
+  color: black;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  width: 535px;
+  height: 198px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Фото начало*/
+.kart4 {
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+}
+/*Фото конец*/
+
+
+
+/*Косметология начало*/
+
+.text_sotrud {
+  text-align: center;
+}
+
+/*Текст о косметологии начало*/
+a.text5:active, /* активная/посещенная ссылка */
+a.text5:hover,  /* при наведении */
+a.text5 {
+  text-decoration: none;
+  color: #000000;
+  }
+
+.so {
+  font-size: 48px;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.sotrudniii {
+  background-color: white;
+  width: 1331px;
+  height: 1681px;
+  box-shadow: 0px 20px 40px black;
+  
+  margin-top: 145px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  
+  
+}
+
+
+
+.zara {
+  width: 565;
+  height: 702px;
+
+}
+.zaraa {
+  width: 565px;
+  height: 432px;
+  margin-top: 100px;
+  margin-left: 50px;
+  box-shadow: 0px 0px 5px black;
+}
+.zar {
+  font-weight: 800;
+    font-size: 48px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    width: 166px;
+    height: 73px;
+    margin-left: 50px;
+    
+    
+}
+.za {
+    font-weight: 800;
+    font-size: 24px;
+    font-family: "Roboto";
+    color: black;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    width: 471px;
+    height: 117px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+.ula {
+  width: 565;
+  height: 702px;
+
+}
+.ulaaa {
+  width: 565px;
+  height: 432px;
+  margin-top: 175px;
+  margin-left: 50px;
+  box-shadow: 0px 0px 5px black;
+}
+.ul {
+  font-weight: 800;
+    font-size: 48px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    width: 166px;
+    height: 73px;
+    margin-left: 50px;
+    
+    
+}
+.u {
+    font-weight: 800;
+    font-size: 24px;
+    font-family: "Roboto";
+    color: black;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    width: 471px;
+    height: 117px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.gaik {
+  width: 565;
+  height: 702px;
+  margin-top: -1404px;
+  margin-left: 625px;
+
+}
+.gai {
+  width: 565px;
+  height: 432px;
+  margin-top: 100px;
+  margin-left: 87px;
+  box-shadow: 0px 0px 5px black;
+}
+.ga {
+  font-weight: 800;
+    font-size: 48px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    width: 166px;
+    height: 73px;
+    margin-left: 87px;
+    
+    
+}
+.g {
+    font-weight: 800;
+    font-size: 24px;
+    font-family: "Roboto";
+    color: black;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    width: 471px;
+    height: 117px;
+    margin-left: 87px;
+}
+
+
+
+
+
+
+
+
+
+
+.svetlana {
+  width: 565;
+  height: 702px;
+  
+  margin-left: 625px;
+
+}
+.svetlan {
+  width: 565px;
+  height: 432px;
+  margin-top: 175px;
+  margin-left: 87px;
+  box-shadow: 0px 0px 5px black;
+}
+.svetla {
+  font-weight: 800;
+    font-size: 48px;
+    font-family: "Roboto";
+    color: #8F7227;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    width: 166px;
+    height: 73px;
+    margin-left: 87px;
+    
+    
+}
+.svetl {
+    font-weight: 800;
+    font-size: 24px;
+    font-family: "Roboto";
+    color: black;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    width: 471px;
+    height: 117px;
+    margin-left: 87px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.otzivi {
+  background-color: white;
+  width: 1331px;
+  height: 600px;
+  box-shadow: 0px 20px 40px black;
+  
+  margin-top: 145px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+}
+
+
+/*Отзывы начало*/
+
+.text_otzivi {
+  text-align: center;
+}
+
+/*Текст о косметологии начало*/
+a.text6:active, /* активная/посещенная ссылка */
+a.text6:hover,  /* при наведении */
+a.text6 {
+  text-decoration: none;
+  color: #000000;
+  }
+
+.ot {
+  font-size: 48px;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#review-form input,
+#review-form textarea,
+#review-form button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+
+.otzoviki {
+  
+  margin-top: 0x;
+  margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color: black;
+  width: 100%;
+  height: 300px;
+  margin-top: 50px;
+ 
+}
+
+
+
+
+
+
+
+
+/*Текст о косметологии начало*/
+a.text7:active, /* активная/посещенная ссылка */
+a.text7:hover,  /* при наведении */
+a.text7 {
+  text-decoration: none;
+  color: #000000;
+  }
+
+.sv {
+  font-size: 48px;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 20px;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+}
+.kapibaraa {
+  font-weight: 400;
+    font-size: 24px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+   
+  letter-spacing: 1px;
+   width: 400px;
+   height: 50px;
+   margin-top: 100px;
+   margin-left: 750px;
+   margin-right: auto;
+}
+
+  
